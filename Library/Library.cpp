@@ -100,7 +100,7 @@ int main()
 
 				while (!(browseOption == 1 || browseOption == 0))
 				{
-					cout << "\n\nInvalid entry, Please try again. \n1. Search Book\n0. Exit\n\nPlease indicate with the correct option number: ";
+					cout << "\n\nInvalid entry, please try again. \n1. Search Book\n0. Exit\n\nPlease indicate with the correct option number: ";
 					cin >> browseOption;
 				}
 
