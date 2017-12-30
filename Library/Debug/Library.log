@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  shelf.cpp
+  Library.cpp
+  book.cpp
+  Generating Code...
+c:\users\e12882\onedrive\documents\codes\c++\library\library\library.cpp(261): warning C4715: 'getShelf': not all control paths return a value
+c:\users\e12882\onedrive\documents\codes\c++\library\library\shelf.cpp(65): warning C4715: 'shelf::getBook': not all control paths return a value
+  Library.vcxproj -> C:\Users\e12882\OneDrive\Documents\Codes\C++\Library\Debug\Library.exe
+  Library.vcxproj -> C:\Users\e12882\OneDrive\Documents\Codes\C++\Library\Debug\Library.pdb (Partial PDB)
